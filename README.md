@@ -29,7 +29,7 @@
   [Jovani Gomez](https://github.com/jovanigomez?tab=repositories)
 
 ## Testing 
-
+- N/A
 
 ## Deployed Link
  [Deployed Link]()
