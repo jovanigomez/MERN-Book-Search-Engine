@@ -56,7 +56,7 @@ npm i
 - N/A
 
 ## Deployed Link
- [Deployed Link]()
+ [Deployed Link](https://mern-book-search-engine2.herokuapp.com/)
 ## Contact
  * [GitHub](https://github.com/jovanigomez/MERN-Book-Search-Engine)
 
